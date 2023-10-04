@@ -1,0 +1,11 @@
+#first to create window in tkinter
+import tkinter as tk
+root=tk.Tk()
+root.title("Tkinter")
+root.geometry("1000x1000")
+
+label=tk.Label(root,text="Hai afshan",bg="red",fg="yellow",font=("Helvetica", 12, "bold")).place(x=100,y=100)
+button=tk.Button(root,text="click")
+button.place(x=200,y=200)
+
+root.mainloop()

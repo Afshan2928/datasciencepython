@@ -1,0 +1,35 @@
+# f=open("C:/Users/legal/OneDrive/Desktop/python programs/hello","r")
+# print(f.read())
+# f=open("C:/Users/legal/OneDrive/Documents/sample.txt","r")
+# print(f.read())
+# print(f.read(3))
+# print(f.readline())
+# print(f.readlines())
+# f.close()
+# f=open("C:/Users/legal/OneDrive/Documents/smaple1.txt","w")
+# print(f.write("Delhi is in India"))
+# 
+# print(f.writelines("Bangok i s in Thailand"))
+# print(f.write("h"))
+# f.close()
+# f=open("C:/Users/legal/OneDrive/Documents/sample.txt","a")
+# for i in range(1,4):
+    # f.write("hello")
+# f.close()
+# f=open("C:/Users/legal/OneDrive/Documents/sample.txt","r")
+# print(f.read())
+# f.close()
+
+# f=open("C:/Users/legal/OneDrive/Documents/sample3.txt","r")
+# print(f.read())
+# f.close()
+# f=open("C:/Users/legal/OneDrive/Documents/sample3.txt","a")
+# for i in range(1,2):
+    # f.write("Nutrionfacts")
+# f.close()
+# f=open("C:/Users/legal/OneDrive/Documents/sample3.txt","r")
+# print(f.read())
+# import os
+# os.remove("C:/Users/legal/OneDrive/Documents/sample3.txt")
+# import os 
+# os.rename("")
